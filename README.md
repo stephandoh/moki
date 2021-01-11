@@ -1,5 +1,11 @@
 # Getting Started with Create React App
 
+after signing up, you will see something similar in the search bar - https://5ffcd0e0860cdd014e2e300d--confident-euclid-f58156.netlify.app/up?username=kiro&password=2020
+
+to sign in, change the link back to https://5ffcd0e0860cdd014e2e300d--confident-euclid-f58156.netlify.app/
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
