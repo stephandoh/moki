@@ -14,7 +14,7 @@ function App() {
       <BrowserRouter>
         <Switch>
           <Route path="/kalcal" component={KalCal} />
-          <Route path="/up" component={Signup} />
+          <Route path="/signup" component={Signup} />
           <Route exact path="/" component={Signin} />
           <Route path="/nav" component={Nav} />
           <Route path="/about" component={About} />

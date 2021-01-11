@@ -72,10 +72,6 @@ export default function Signup() {
             users[username] = thisUser;
             localStorage.setItem('users', JSON.stringify(users))
             setMessage('New account creation successful')
-            setTimeout(() => {
-                history.push('/')
-            }, 3000)
-
         }
     }
 
