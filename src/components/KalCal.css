@@ -1,0 +1,23 @@
+.KalCal {
+    text-align: center;
+  }
+
+.food {
+    background-color: aliceblue;
+}
+
+
+label {
+    padding: 5px;
+}
+
+label>.food {
+    padding: 5px;
+    margin: 5px;
+
+}
+
+label>.quantity {
+    padding: 5px;
+    margin: 5px;
+}
